@@ -1,0 +1,49 @@
+FILE NAME FORMAT (C:\Users\[Username]\AppData\Local\DELTARUNE\[File])
+filech[X]_[I]
+
+X = chapter number
+I = index (0 indexed)
+
+VARS
+
+CHOCO DIAMOND - Kris = Thrash = 80 | Noelle + Kris = 35 + 35 | Susie = Ralsei = 30
+HEARTS DONUT - Susie = 90 | Ralsei = 60 | Noelle = 30 | Thrash = 20 | Kris = 10
+
+ch1 HP - 90 / 110 / 70
+ch2 HP - 120 / 140 / 100
+
+[ALL FILE NAMES IN THE BELOW LIST ARE IN CHRONOLOGICAL ORDER] 
+
+FILE NAMES - CH1
+
+start = start of chapter in dark world
+castle_1F = first floor of castle (right after prison escape ... nothing else yet)
+castle_5F = 5th floor of castle with elevator enabled (maybe has key?)
+CHAOS = before the Jevil fight
+ORDER = after the Jevil fight (Tail armor obtained)
+king = final save file (before king bossfight)
+filech1_3 = completion file based on the run from all the other ch1 files
+filech1_9 = same thing i guess (keeps track of most recent ending)
+
+FILE NAMES - CH2
+
+prelude = castle town entrance
+start = same as corresponding
+begin = intro to field area (post cutscene + battle)
+city = start of city
+berd = after berdly fight
+carnival = at the carnival after spamton
+rooms = escaped from the room units
+entrance = mansion entrance + keygen
+1F = 1F solved and loop created (basement not opened)
+emptydisk = empty disk acquired
+loadeddisk = disk transferred (save location is mansion entrance)
+CHAOS = in basement with loaded disk (i'm making lots of saves here for no reason)
+ORDER = dealmaker (save location is manor entrance)
+2F = 2F solved (until mauswheel) and loop created
+3F = 3F save point (right after BERD's intervention)
+4F = 4F solved + werewerewire recruited
+Qxd8 = first queen bossfight
+END = 2nd castle town save
+filech2_3 = completion file
+filech2_9 = completion file
