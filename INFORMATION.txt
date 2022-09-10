@@ -21,7 +21,7 @@ castle_1F = first floor of castle (right after prison escape ... nothing else ye
 castle_5F = 5th floor of castle with elevator enabled (maybe has key?)
 CHAOS = before the Jevil fight
 ORDER = after the Jevil fight (Tail armor obtained)
-king = final save file (before king bossfight)
+king = final save file (before king bossfight) (Topcake is exchanged after this save)
 filech1_3 = completion file based on the run from all the other ch1 files
 filech1_9 = same thing i guess (keeps track of most recent ending)
 
@@ -47,3 +47,12 @@ Qxd8 = first queen bossfight
 END = 2nd castle town save
 filech2_3 = completion file
 filech2_9 = completion file
+
+FILE NAMES - CH2 SNOWGRAVE
+
+DIVERGENCE = first alleyway
+MUSICAREA = where the music area usually is (all previous enemies downed)
+THORNRING = same place - all enemies down and thorn ring acquired
+EVENTHORIZON = Berdly fight completed + Snowgrave cast
+TRIPLE = 3F loop created and 3 main mansion enemies recruited (Tasque + Maus + Wire)
+XXXX = right before the fountain (SPOILERS?)
