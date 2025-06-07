@@ -1,11 +1,13 @@
 FILE NAME FORMAT (C:\Users\[Username]\AppData\Local\DELTARUNE\[File])
-filech[X][O]_[I]
+filech[X]_[I]
 
 X = chapter number
 I = index (0 indexed)
-O = options {
-  E = Egg collected for all chapters up until this point
-}
+
+FOLDERS
+
+Xn = Chapter n
+XnE = Chapter n with egg collected (all chapters up and including that point) (Only chs1-2)
 
 VARS
 
@@ -24,7 +26,7 @@ castle_1F = first floor of castle (right after prison escape ... nothing else ye
 castle_5F = 5th floor of castle with elevator enabled (maybe has key?)
 CHAOS = before the Jevil fight
 ORDER = after the Jevil fight (Tail armor obtained)
-king = final save file (before king bossfight) (Topcake is exchanged after this save)
+king = final save file (before king bossfight) (Topcake is exchanged after this save) <-- X1E begins here
 filech1_3 = completion file based on the run from all the other ch1 files
 filech1_9 = same thing i guess (keeps track of most recent ending)
 
