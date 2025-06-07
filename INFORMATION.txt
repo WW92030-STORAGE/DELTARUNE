@@ -7,7 +7,7 @@ I = index (0 indexed)
 FOLDERS
 
 Xn = Chapter n
-XnE = Chapter n with egg collected (all chapters up and including that point) (Only chs1-2)
+XnE = Chapter n with egg collected (all chapters up and including that point)
 
 VARS
 
