@@ -1,8 +1,11 @@
 FILE NAME FORMAT (C:\Users\[Username]\AppData\Local\DELTARUNE\[File])
-filech[X]_[I]
+filech[X][O]_[I]
 
 X = chapter number
 I = index (0 indexed)
+O = options {
+  E = Egg collected for all chapters up until this point
+}
 
 VARS
 
