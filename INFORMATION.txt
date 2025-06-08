@@ -47,6 +47,7 @@ CHAOS = in basement with loaded disk (i'm making lots of saves here for no reaso
 ORDER = dealmaker (save location is manor entrance)
 2F = 2F solved (until mauswheel) and loop created
 3F = 3F save point (right after BERD's intervention)
+NS = Post the dream sequence
 4F = 4F solved + werewerewire recruited
 Qxd8 = first queen bossfight
 END = 2nd castle town save
