@@ -8,6 +8,7 @@ FOLDERS
 
 Xn = Chapter n
 XnE = Chapter n with egg collected (all chapters up and including that point)
+XnX = Chapter n with egg collected and dropped (all chapters up and including that point)
 
 VARS
 
