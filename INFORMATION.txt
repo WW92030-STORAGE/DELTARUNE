@@ -63,3 +63,8 @@ THORNRING = same place - all enemies down and thorn ring acquired
 EVENTHORIZON = Berdly fight completed + Snowgrave cast
 TRIPLE = 3F loop created and 3 main mansion enemies recruited (Tasque + Maus + Wire)
 XXXX = right before the fountain (SPOILERS?)
+
+FILE NAMES - CH3
+
+prelude = initial save point
+begin = before the show
