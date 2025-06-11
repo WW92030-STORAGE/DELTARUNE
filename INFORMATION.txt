@@ -71,5 +71,6 @@ prelude = initial save point
 begin = before the show
 R1 = Round 1 Completed
 S1 = Round 1 S Rank
+cooler = Cooler defeated (must be done after round 1)
 R2 = Round 2 Completed
 S2 = Round 2 S Rank (Prerequisite: S1 otherwise label as R2)
