@@ -80,3 +80,4 @@ lunmox = Ice area
 prism = After the first Tenna apocalypse
 lancer = After getting the Revivemint and throwing the block
 shred = After the stealth sections in the concert area (Water cooler fought and contracts shredded)
+nexie = Egg acquired
