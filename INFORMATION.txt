@@ -77,4 +77,5 @@ R2 = Round 2 Completed
 S2 = Round 2 S Rank (Prerequisite: S1 otherwise label as R2)
 shelterkey = Shelter key obtained (Prerequisite: S2)
 lunmox = Ice area
-prism = Escape the balls
+prism = After the first Tenna apocalypse
+lancer = After getting the Revivemint and throwing the block
