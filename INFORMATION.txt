@@ -79,3 +79,4 @@ shelterkey = Shelter key obtained (Prerequisite: S2)
 lunmox = Ice area
 prism = After the first Tenna apocalypse
 lancer = After getting the Revivemint and throwing the block
+nexie = After the stealth sections in the concert area (Water cooler fought and contracts shredded)
