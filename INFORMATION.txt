@@ -75,3 +75,4 @@ cooler = Cooler defeated (must be done after round 1)
 icekey = Ice key obtained (Prerequisite: S1)
 R2 = Round 2 Completed
 S2 = Round 2 S Rank (Prerequisite: S1 otherwise label as R2)
+shelterkey = Shelter key obtained (Prerequisite: S2)
