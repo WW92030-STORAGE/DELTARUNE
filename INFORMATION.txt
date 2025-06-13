@@ -83,7 +83,9 @@ lancer = After getting the Revivemint and throwing the block
 shred = After the stealth sections in the concert area (Water cooler fought and contracts shredded)
 NEXIE = Egg acquired
 AZION = SHADOW MANTLE ACQUIRED
-MONUMENT = After the second Tenna apocalypse (Final save point)
+MONUMENT = After the second Tenna apocalypse (Final save point) <-- Knight can be defeated after this save.
+filech3_3 = completion file (Knight defeated)
+filech3_9 = completion file (Knight defeated)
 
 FILE NAMES - CH4
 
