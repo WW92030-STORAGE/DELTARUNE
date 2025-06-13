@@ -83,4 +83,4 @@ shred = After the stealth sections in the concert area (Water cooler fought and 
 NEXIE = Egg acquired
 AZION = SHADOW MANTLE ACQUIRED
 MONUMENT = After the second Tenna apocalypse (Final save point if knight not defeated)
-KNIGHT = Final save point if knight defeated (This can be pushed after ch3 has been completed once but must stem from ch3_AZION)
+KNIGHT = Final save point if knight defeated (This can be pushed after ch3 has been completed once but must stem from ch3_AZION or ch3_MONUMENT)
