@@ -82,3 +82,4 @@ lancer = After getting the Revivemint and throwing the block
 shred = After the stealth sections in the concert area (Water cooler fought and contracts shredded)
 NEXIE = Egg acquired
 AZION = SHADOW MANTLE ACQUIRED
+MONUMENT = After the second Tenna apocalypse
