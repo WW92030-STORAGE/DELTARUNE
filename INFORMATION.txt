@@ -39,7 +39,7 @@ prelude = castle town entrance
 start = same as corresponding
 begin = intro to field area (post cutscene + battle)
 city = start of city
-berd = after berdly fight
+berd = after berdly fight (If the egg is collected it should be done by this point.)
 carnival = at the carnival after spamton
 rooms = escaped from the room units
 entrance = mansion entrance + keygen
@@ -106,3 +106,4 @@ PRISM = Final save point (before the knight event)
 FILE NAMES - CH4B
 
 GREEN = Second dark world
+descend = Floor taken out by Gerson (Egg collected by this point if done so)
