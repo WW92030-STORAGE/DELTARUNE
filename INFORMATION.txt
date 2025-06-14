@@ -91,3 +91,4 @@ FILE NAMES - CH4
 
 prelude = initial save point
 phunk = castle town (TV is given to the ``Nobody'')
+noelle = noelle's house
