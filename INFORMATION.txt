@@ -89,6 +89,7 @@ filech3_9 = completion file (Knight defeated)
 
 FILE NAMES - CH4
 
-prelude = initial save point
-phunk = castle town (TV is given to the ``Nobody'')
-noelle = noelle's house
+prelude = Initial save point
+phunk = Castle town (TV is given to the ``Nobody'')
+noelle = Noelle's house
+RED = First dark world (The dark worlds will be referred to as RED GREEN and BLUE respectively.)
