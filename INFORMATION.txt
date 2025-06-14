@@ -113,3 +113,4 @@ FILE NAMES - CH4C
 
 BLUE = Third dark world
 nox = Collected wafer guard and survived piano trial
+protogen = After the knight event
