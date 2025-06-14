@@ -99,3 +99,4 @@ RED = First dark world (The dark worlds will be referred to as RED GREEN and BLU
 study = Gerson study (also bought a few things)
 horrible = Piano puzzle solved
 pumkin = Claimbing Claws acquired
+goldpiano = Gold piano solved
