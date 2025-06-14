@@ -102,3 +102,7 @@ pumkin = Claimbing Claws acquired
 goldpiano = Gold piano solved
 RWQFSFASXC = Axe obtained
 PRISM = Final save point (before the knight event)
+
+FILE NAMES - CH4B
+
+GREEN = Second dark world
