@@ -111,5 +111,5 @@ NEXIE = Final save point (This might be a duplicate I don't know)
 
 FILE NAMES - CH4C
 
-BLUE - Third dark world
-
+BLUE = Third dark world
+nox = Collected wafer guard and survived piano trial
