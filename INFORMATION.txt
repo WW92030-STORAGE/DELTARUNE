@@ -100,3 +100,4 @@ study = Gerson study (also bought a few things)
 horrible = Piano puzzle solved
 pumkin = Claimbing Claws acquired
 goldpiano = Gold piano solved
+RWQFSFASXC = Axe obtained
