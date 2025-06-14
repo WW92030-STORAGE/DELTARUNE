@@ -113,4 +113,7 @@ FILE NAMES - CH4C
 
 BLUE = Third dark world
 nox = Collected wafer guard and survived piano trial
-protogen = After the knight event
+protogen = After the knight event (First playthrough -- before the titan event)
+DIVERGE = After the knight event in Castle Town (Subsequent playthroughs)
+PRELUDE = Outside the Mike Door
+THRESHOLD = Maus collected and outside the final Mike door
