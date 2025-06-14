@@ -97,3 +97,4 @@ FILE NAMES - CH4A
 
 RED = First dark world (The dark worlds will be referred to as RED GREEN and BLUE respectively.)
 study = Gerson study (also bought a few things)
+horrible = Piano puzzle solved
