@@ -90,3 +90,4 @@ filech3_9 = completion file (Knight defeated)
 FILE NAMES - CH4
 
 prelude = initial save point
+phunk = castle town (TV is given to the ``Nobody'')
