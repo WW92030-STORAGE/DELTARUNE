@@ -107,3 +107,4 @@ FILE NAMES - CH4B
 
 GREEN = Second dark world
 descend = Floor taken out by Gerson (Egg collected by this point if done so)
+NEXIE = Final save point (This might be a duplicate I don't know)
