@@ -54,6 +54,7 @@ NS = Post the dream sequence
 4F = 4F solved + werewerewire recruited
 Qxd8 = first queen bossfight
 END = 2nd castle town save
+ENDX = all challenges completed
 filech2_3 = completion file
 filech2_9 = completion file
 
