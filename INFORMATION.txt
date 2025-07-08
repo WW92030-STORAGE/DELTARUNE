@@ -85,6 +85,7 @@ shred = After the stealth sections in the concert area (Water cooler fought and 
 NEXIE = Egg acquired
 AZION = SHADOW MANTLE ACQUIRED
 MONUMENT = After the second Tenna apocalypse (Final save point) <-- Knight can be defeated after this save.
+MONUMENTX = All useful gacha prizes acquired included.
 filech3_3 = completion file (Knight defeated)
 filech3_9 = completion file (Knight defeated)
 
