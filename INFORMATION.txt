@@ -91,8 +91,9 @@ filech3_9 = completion file (Knight defeated)
 FILE NAMES - CH4
 
 prelude = Initial save point
-phunk = Castle town (TV is given to the ``Nobody'')
-noelle = Noelle's house
+phunk = Castle town (TV can be given to the ``Nobody'')
+phunk2 = Castle Town (After visiting people and doing things. TV can be given to the ``Nobody'')
+noelle = Noelle's house (TV must be given to the ``Nobody'' by this point)
 
 FILE NAMES - CH4A
 
