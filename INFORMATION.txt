@@ -84,7 +84,7 @@ lancer = After getting the Revivemint and throwing the block
 shred = After the stealth sections in the concert area (Water cooler fought and contracts shredded)
 NEXIE = Egg acquired
 AZION = SHADOW MANTLE ACQUIRED
-MONUMENT = After the second Tenna apocalypse (Final save point) <-- Knight can be defeated after this save. (In the optimized run All useful gacha prizes acquired included.)
+MONUMENT = After the second Tenna apocalypse (Final save point) <-- Knight can be defeated after this save. (In the optimized run All useful gacha prizes acquired included.) <<< MAKE SURE TO CHECK EQUIPMENT
 filech3_3 = completion file (Knight defeated)
 filech3_9 = completion file (Knight defeated)
 
@@ -103,7 +103,7 @@ horrible = Piano puzzle solved
 pumkin = Claimbing Claws acquired
 goldpiano = Gold piano solved
 RWQFSFASXC = Axe obtained
-PRISM = Final save point (before the knight event)
+PRISM = Final save point (before the knight event) 
 
 FILE NAMES - CH4B
 
@@ -120,4 +120,4 @@ DIVERGE = After the knight event in Castle Town (Subsequent playthroughs)
 PRELUDE = Outside the Mike Door
 THRESHOLD = Maus collected and outside the final Mike door
 SPECTRE = After the Mike event
-AZION = True final save point (Before the Titan event and after the Mike event)
+AZION = True final save point (Before the Titan event and after the Mike event) <<< MAKE SURE TO CHECK EQUIPMENT
