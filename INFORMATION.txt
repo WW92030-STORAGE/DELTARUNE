@@ -121,3 +121,7 @@ PRELUDE = Outside the Mike Door
 THRESHOLD = Maus collected and outside the final Mike door
 SPECTRE = After the Mike event
 AZION = True final save point (Before the Titan event and after the Mike event) <<< MAKE SURE TO CHECK EQUIPMENT
+
+FILE NAMES - CH5
+
+Check the X5* directory. There are a lot of them.
